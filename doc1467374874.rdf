@@ -1,0 +1,121 @@
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:aof="http://purl.org/ao/foaf/"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:aos="http://purl.org/ao/selectors/"
+xmlns:ao="http://purl.org/ao/"
+xmlns:j.2="http://www.w3.org/ns/prov#"
+xmlns:j.1="http://www.w3.org/2000/10/annotation-ns#"
+xmlns:j.0="http://purl.org/ao/types/"
+xmlns:j.3="http://dbpedia.org/resource/"
+xmlns:pav="http://purl.org/pav/2.0/"
+xmlns:j.4="http://bioontology.org/ontologies/BiomedicalResourceOntology.owl#" >
+<rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/118/0">
+<rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+<rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+<rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+<rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+<aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?118"/>
+<ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/118/0"/>
+<ao:hasTopic rdf:resource="http://ontology.irstea.fr/cropusage/2016/05/Carottes"/>
+<pav:createdOn rdf:datatype="http://www.w3.org/2001/XMLSchema#date">16-07-01</pav:createdOn>
+<pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/118/2">
+<rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+<rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+<rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+<aos:offset rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</aos:offset>
+<aos:exact>CERFEUIL</aos:exact>
+<aos:range rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</aos:range>
+<aof:onDocument rdf:resource="http://data.bioontology.org/annotator?118"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/118/3">
+<rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+<rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+<rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+<aos:offset rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</aos:offset>
+<aos:exact>PERSIL</aos:exact>
+<aos:range rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</aos:range>
+<aof:onDocument rdf:resource="http://data.bioontology.org/annotator?118"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/118/4">
+<rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+<rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+<rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+<aos:offset rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208</aos:offset>
+<aos:exact>MARAîCHAGE</aos:exact>
+<aos:range rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</aos:range>
+<aof:onDocument rdf:resource="http://data.bioontology.org/annotator?118"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/118/1">
+<rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+<rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+<rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+<aos:offset rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</aos:offset>
+<aos:exact>CéLERI</aos:exact>
+<aos:range rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</aos:range>
+<aof:onDocument rdf:resource="http://data.bioontology.org/annotator?118"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/118/3">
+<rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+<rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+<rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+<rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+<aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?118"/>
+<ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/118/3"/>
+<ao:hasTopic rdf:resource="http://ontology.irstea.fr/cropusage/2016/05/Persils"/>
+<pav:createdOn rdf:datatype="http://www.w3.org/2001/XMLSchema#date">16-07-01</pav:createdOn>
+<pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://stageportal.lirmm.fr:8080/annotator?">
+<foaf:description>The NCBO BioPortal Annotator processes text submitted by users, recognizes relevant ontology terms in the text and returns the annotations to the user.</foaf:description>
+<foaf:name>NCBO Annotator</foaf:name>
+<rdf:type rdf:resource="http://dbpedia.org/resource/Software"/>
+<rdf:type rdf:resource="http://bioontology.org/ontologies/BiomedicalResourceOntology.owl#Data_Computation_Service"/>
+<rdf:type rdf:resource="http://www.w3.org/ns/prov#SoftwareAgent"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/118/2">
+<rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+<rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+<rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+<rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+<aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?118"/>
+<ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/118/2"/>
+<ao:hasTopic rdf:resource="http://ontology.irstea.fr/cropusage/2016/05/Cerfeuils"/>
+<pav:createdOn rdf:datatype="http://www.w3.org/2001/XMLSchema#date">16-07-01</pav:createdOn>
+<pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/118/1">
+<rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+<rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+<rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+<rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+<aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?118"/>
+<ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/118/1"/>
+<ao:hasTopic rdf:resource="http://ontology.irstea.fr/cropusage/2016/05/Celeris"/>
+<pav:createdOn rdf:datatype="http://www.w3.org/2001/XMLSchema#date">16-07-01</pav:createdOn>
+<pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/ann/118/4">
+<rdf:type rdf:resource="http://purl.org/ao/types/ExactQualifier"/>
+<rdf:type rdf:resource="http://purl.org/ao/types/Qualifier"/>
+<rdf:type rdf:resource="http://purl.org/ao/Annotation"/>
+<rdf:type rdf:resource="http://www.w3.org/2000/10/annotation-ns#Annotation"/>
+<aof:annotatesDocument rdf:resource="http://data.bioontology.org/annotator?118"/>
+<ao:context rdf:resource="http://bioportal.bioontology.org/annotator/sel/118/4"/>
+<ao:hasTopic rdf:resource="http://ontology.irstea.fr/cropusage/2016/05/Maraichage"/>
+<pav:createdOn rdf:datatype="http://www.w3.org/2001/XMLSchema#date">16-07-01</pav:createdOn>
+<pav:createdBy rdf:resource="http://bioportal.bioontology.org/annotator"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://bioportal.bioontology.org/annotator/sel/118/0">
+<rdf:type rdf:resource="http://purl.org/ao/Selector"/>
+<rdf:type rdf:resource="http://purl.org/ao/selectors/TextSelector"/>
+<rdf:type rdf:resource="http://purl.org/ao/selectors/OffsetRangeSelector"/>
+<aos:offset rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</aos:offset>
+<aos:exact>CAROTTE</aos:exact>
+<aos:range rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</aos:range>
+<aof:onDocument rdf:resource="http://data.bioontology.org/annotator?118"/>
+</rdf:Description>
+</rdf:RDF>
+

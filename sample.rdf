@@ -1,0 +1,130 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:ns1="http://www.w3.org/2004/02/skos/core#"
+    xmlns:ns0="http://vitis.agroknow.com/ns#"
+    xmlns:ns2="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://vitis.agroknow.com/taxonomy_term/4048">
+    <ns1:altLabel rdf:datatype="xsd:string">Chardonnay blanc</ns1:altLabel>
+    <ns0:hasCultivationCountry>Canada</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Chaudenet</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">  Pinot Chardonnay</ns1:altLabel>
+    <ns0:hasGrapeColor>B</ns0:hasGrapeColor>
+    <ns1:altLabel rdf:datatype="xsd:string">Kereklevelü</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Gamay Blanc</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Gentil</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string"> Weiss klewner</ns1:altLabel>
+    <ns0:hasCultivationCountry>United States of America</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Argentina</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>France</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Cyprus</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Spain</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">  Ronci bilé</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Ronci bilé</ns1:altLabel>
+    <ns0:hasCultivationCountry>Austria</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>South Africa</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string"> Pinot Chardonnay</ns1:altLabel>
+    <ns0:hasCultivationCountry>Hungary</ns0:hasCultivationCountry>
+    <ns1:prefLabel>Chardonnay</ns1:prefLabel>
+    <ns0:hasCultivationCountry>Belgium</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Pinot blanc a cramant</ns1:altLabel>
+    <ns0:hasCultivationCountry>Russia</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Czech Republic</ns0:hasCultivationCountry>
+    <ns1:broader rdf:resource="http://vitis.agroknow.com/taxonomy_term/10738"/>
+    <ns1:altLabel rdf:datatype="xsd:string">  Pinot blanc Chardonnay</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Pinot Chardonnay</ns1:altLabel>
+    <ns0:hasCultivationCountry>Montenegro</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>New Zealand</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Israel</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Aubain</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Pinot giallo</ns1:altLabel>
+    <ns0:hasCultivationCountry>Morocco</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Šardone</ns1:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <ns0:hasCultivationCountry>Greece</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Chile</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Chardenet</ns1:altLabel>
+    <ns0:hasCultivationCountry>Romania</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Màconnais</ns1:altLabel>
+    <ns0:hasCultivationCountry>Bosnia and Herzegovina</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Luxembourg</ns0:hasCultivationCountry>
+    <ns2:label>Chardonnay</ns2:label>
+    <ns0:hasCultivationCountry>Slovakia</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Italy</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Germany</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Arnaison blanc</ns1:altLabel>
+    <ns0:hasCultivationCountry>Slovenia</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Australia</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Portugal</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">  Pino Blanc</ns1:altLabel>
+    <ns0:hasCultivationCountry>Croatia</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">   Pinot Chardonnay</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Morillon blanc</ns1:altLabel>
+    <ns0:hasCultivationCountry>Peru</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Bulgaria</ns0:hasCultivationCountry>
+  </rdf:Description>
+</rdf:RDF>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:ns1="http://www.w3.org/2004/02/skos/core#"
+    xmlns:ns0="http://vitis.agroknow.com/ns#"
+    xmlns:ns2="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://vitis.agroknow.com/taxonomy_term/4048">
+    <ns1:altLabel rdf:datatype="xsd:string">Chardonnay blanc</ns1:altLabel>
+    <ns0:hasCultivationCountry>Canada</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Chaudenet</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">  Pinot Chardonnay</ns1:altLabel>
+    <ns0:hasGrapeColor>B</ns0:hasGrapeColor>
+    <ns1:altLabel rdf:datatype="xsd:string">Kereklevelü</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Gamay Blanc</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Gentil</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string"> Weiss klewner</ns1:altLabel>
+    <ns0:hasCultivationCountry>United States of America</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Argentina</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>France</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Cyprus</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Spain</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">  Ronci bilé</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Ronci bilé</ns1:altLabel>
+    <ns0:hasCultivationCountry>Austria</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>South Africa</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string"> Pinot Chardonnay</ns1:altLabel>
+    <ns0:hasCultivationCountry>Hungary</ns0:hasCultivationCountry>
+    <ns1:prefLabel>Chardonnay</ns1:prefLabel>
+    <ns0:hasCultivationCountry>Belgium</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Pinot blanc a cramant</ns1:altLabel>
+    <ns0:hasCultivationCountry>Russia</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Czech Republic</ns0:hasCultivationCountry>
+    <ns1:broader rdf:resource="http://vitis.agroknow.com/taxonomy_term/10738"/>
+    <ns1:altLabel rdf:datatype="xsd:string">  Pinot blanc Chardonnay</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Pinot Chardonnay</ns1:altLabel>
+    <ns0:hasCultivationCountry>Montenegro</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>New Zealand</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Israel</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Aubain</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Pinot giallo</ns1:altLabel>
+    <ns0:hasCultivationCountry>Morocco</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Šardone</ns1:altLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <ns0:hasCultivationCountry>Greece</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Chile</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Chardenet</ns1:altLabel>
+    <ns0:hasCultivationCountry>Romania</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Màconnais</ns1:altLabel>
+    <ns0:hasCultivationCountry>Bosnia and Herzegovina</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Luxembourg</ns0:hasCultivationCountry>
+    <ns2:label>Chardonnay</ns2:label>
+    <ns0:hasCultivationCountry>Slovakia</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Italy</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Germany</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">Arnaison blanc</ns1:altLabel>
+    <ns0:hasCultivationCountry>Slovenia</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Australia</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Portugal</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">  Pino Blanc</ns1:altLabel>
+    <ns0:hasCultivationCountry>Croatia</ns0:hasCultivationCountry>
+    <ns1:altLabel rdf:datatype="xsd:string">   Pinot Chardonnay</ns1:altLabel>
+    <ns1:altLabel rdf:datatype="xsd:string">Morillon blanc</ns1:altLabel>
+    <ns0:hasCultivationCountry>Peru</ns0:hasCultivationCountry>
+    <ns0:hasCultivationCountry>Bulgaria</ns0:hasCultivationCountry>
+  </rdf:Description>
+</rdf:RDF>
